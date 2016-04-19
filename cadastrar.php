@@ -34,14 +34,9 @@ include("seguranca.php"); // Inclui o arquivo com o sistema de segurança
 			<input id="botao" type="button" value="Cancelar" onclick="javascript: location.href='login.php';"/>
 			<input id="botao" type="submit" value="Salvar"/>
 		</div>
-		
-
+	
     </div>
   </div>
-
-
  </form>
-
-
 </body>
 </html>
